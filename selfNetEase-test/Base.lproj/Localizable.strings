@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  
+
+  Created by yihl on 3/7/16.
+
+*/
+"news" = "news";
+"reading" = "reading";
+"video" =  "video";
+"discover" =  "discover";
+"me" =  "me";
+"headline" = "hot";
+"cellphone" = "IT";
+"technology" = "tech";
+"entertainment" = "ENT";
+"fashion" = "fashion";
+"movie" = "movie";

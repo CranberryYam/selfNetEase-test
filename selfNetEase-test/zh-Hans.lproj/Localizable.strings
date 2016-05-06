@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  
+
+  Created by yihl on 3/7/16.
+
+*/
+"news" = "新闻";
+"reading" = "阅读";
+"video" =  "视听";
+"discover" =  "发现";
+"me" =  "我";
+"headline" = "头条";
+"cellphone" = "手机";
+"technology" = "科技";
+"entertainment" = "娱乐";
+"fashion" = "时尚";
+"movie" = "电影";
