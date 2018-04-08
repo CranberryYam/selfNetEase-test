@@ -1,4 +1,4 @@
-# selfNetEase-test
+# NetEase
 a practice ios demo that is imitating NetEase news app (a popular Chinese news app)
 # Features
 *   **Launch page ad**: when you open this app, you can see a commercial
